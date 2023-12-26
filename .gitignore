@@ -1,0 +1,6 @@
+/packages/shared_ui/node_modules/
+/packages/shared_ui/lib/
+
+/packages/shared_ui/npm-debug.log*
+/packages/shared_ui/yarn-debug.log*
+/packages/shared_ui/yarn-error.log*
